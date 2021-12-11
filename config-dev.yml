@@ -1,4 +1,4 @@
 spring:
   application:
     version: 1
-    env:dev
+    env: dev
