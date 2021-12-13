@@ -1,7 +1,7 @@
 spring:
   application:
-    version: 4
+    version: 5
     env: dev
   config:
-    info: main branch,springcloud-config/config-dev.yml version=4
+    info: main branch,springcloud-config/config-dev.yml version=5
  
